@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jakub Męciński, but you can call me Kuro
+- 👋 Hi, I’m Jakub Męciński
 - 👀 I’m interested in programmming (obviously XD), F1 and photography
-- 🌱 I’m currently learning Swift and iOS Development
+- 🌱 I’m currently trying to find out what I want to do as a programmer
 - 📫 How to reach me COMING SOON
 
 <!---

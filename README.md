@@ -1,4 +1,4 @@
-👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places), aspiring JS/TS developer and huge Deno 🦕 fan from 🇵🇱 Poland. Currently gaining skills and knowledge to become full-stack web developer.
+👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places), aspiring JS/TS developer and huge Deno 🦕 fan from Poland 🇵🇱. Currently gaining skills and knowledge to become full-stack web developer.
 
 I mainly use JavaScript and TypeScript, developing web apps with Next.js, Tailwind CSS, shad/cn and Supabase.
 

@@ -7,6 +7,7 @@ I also had some episodes with:
 - Swift/SwiftUI
 - Dart/Flutter
 - Python
+- Kotlin Multiplatform
 
 I plan to learn Go soon.
 <!---

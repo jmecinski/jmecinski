@@ -1,13 +1,14 @@
-👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places), currently gaining skills and knowledge to become full-stack web and mobile app developer.
+👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places). I'm 28 years old aspiring full-stack developer fom Poland.
 
-I mainly use JavaScript and TypeScript, developing web apps with Next.js, Tailwind CSS, shadcn and Supabase or Appwrite.
+Currently enrolled in 3 Professional Certificate Courses:
 
-I also had some episodes with:
+- Microsoft Back-End Developer Professional Certificate (C# and .NET programming for back-end + SQL databases and Azure Cloud)
+- Meta iOS Developer Professional Certificate (Creating iOS apps with Swift, SwiftUI and React Native)
+- Amazon Junior Software Developer Professional Certificate (Java and AWS Cloud Development)
 
-- Swift/SwiftUI
-- Python
+I'm also planning to complete JS Mastery's Next.js 15 Course.
 
-I plan to learn Go and Kotlin Multiplatform soon.
+
 <!---
 jmecinski/jmecinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

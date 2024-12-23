@@ -1,10 +1,9 @@
-👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places). I'm 28 years old aspiring full-stack developer fom Poland.
+👋 Hi, I’m Jakub Męciński (also using nickname yoru in some places). I'm 28 years old aspiring full-stack developer from Poland.
 
-Currently enrolled in 3 Professional Certificate Courses:
+Currently enrolled in these Professional Certificate Courses:
 
-- Microsoft Back-End Developer Professional Certificate (C# and .NET programming for back-end + SQL databases and Azure Cloud)
-- Meta iOS Developer Professional Certificate (Creating iOS apps with Swift, SwiftUI and React Native)
-- Amazon Junior Software Developer Professional Certificate (Java and AWS Cloud Development)
+- Microsoft Back-End Developer Professional Certificate (C# and .NET programming for back-end + SQL databases)
+- IBM Full-Stack JavaScript Developer Professional Certificate (React, Node.js(Express), Docker and Kubernetes)
 
 I'm also planning to complete JS Mastery's Next.js 15 Course.
 

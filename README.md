@@ -3,7 +3,7 @@
 Currently enrolled in these Professional Certificate Courses:
 
 - Microsoft Back-End Developer Professional Certificate (C# and .NET programming for back-end + SQL databases)
-- IBM Full-Stack JavaScript Developer Professional Certificate (React, Node.js(Express), Docker and Kubernetes)
+- IBM Full-Stack JavaScript Developer Professional Certificate (React, Node.js (Express), Docker and Kubernetes)
 
 I'm also planning to complete JS Mastery's Next.js 15 Course.
 
